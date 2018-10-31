@@ -12,18 +12,18 @@ github_repo: "https://github.com/yuexueyu/yuexueyu.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Since time does not stop, nothing can separate us."
-sidebar-avatar: /img/about_me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+weibo_username:     170173707
+zhihu_username:     170173707
+github_username:    yuexueyu
+facebook_username:  yuexueyu
+jianshu_username:   69ab1155a65a
+#twitter_username:
 
 
 
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: yuexueyu
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 094d9fc2aa01a82c3626                            #生成的clientID
+  clientSecret: bcf0d984e78e244cfde9860d842a5810eb55e9fb    #生成的clientSecret
+  repo: yuexueyu.github.io    #仓库名称
+  owner: yuexueyu    #github用户名
+  admin: yuexueyu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: afc6657c015c5855a8bae4158aa51944
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-128375176-1'            # Format: UA-xxxxxx-xx
+ga_domain: blog.wu06.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "简书·大望路女司机",
+        href: "http://www.jianshu.com/u/69ab1155a65a"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "微信·大望路女司机",
+        href: "https://mp.weixin.qq.com/mp/homepage?__biz=MzU0MDE3MzczNQ==&hid=2&sn=a6a6a574879f6127bc01f3182f26338e&scene=1&devicetype=android-26&version=26070336&lang=zh_CN&nettype=cmnet&ascene=7&session_us=gh_f24a75c43ec6&from=singlemessage"
     }
 ]
