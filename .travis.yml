@@ -1,17 +1,29 @@
+#language: ruby
+#sudo: enabled
+#env:
+#  global:
+#    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+#install:
+#  - sudo gem install github-pages
+#  - sudo gem install bundler
+#  - sudo gem install jekyll
+#  - sudo gem install jekyll-paginate
+#script:
+#  - bundle install
+#  - bundle exec jekyll serve
+#after_success:
+#  - bash <(curl -s https://codecov.io/bash)
+
 language: ruby
-sudo: enabled
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 install:
-  - sudo gem install bundler
-  - sudo gem install github-pages
-  - sudo gem install jekyll
-  - sudo gem install jekyll-paginate
+  - gem install github-pages
+  - gem install jekyll
+  - gem install jekyll-paginate
 script:
-  - bundle install
-  - bundle exec jekyll serve
+  - jekyll build
 after_success:
   - bash <(curl -s https://codecov.io/bash)
-
 
