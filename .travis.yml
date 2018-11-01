@@ -4,13 +4,13 @@ env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 install:
-  - gem install bundler
-  - gem install github-pages
-  - gem install jekyll
-  - gem install jekyll-paginate
+  - sudo gem install bundler
+  - sudo gem install github-pages
+  - sudo gem install jekyll
+  - sudo gem install jekyll-paginate
 script:
-  - bundle install
-  - bundle exec jekyll serve
+  - sudo bundle install
+  - sudo bundle exec jekyll serve
 after_success:
   - bash <(curl -s https://codecov.io/bash)
 
