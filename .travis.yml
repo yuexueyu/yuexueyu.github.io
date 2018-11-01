@@ -9,7 +9,7 @@ install:
   - gem install jekyll-paginate
 script:
   - bundle install
-  - bundle execute jekyll serve
+  - bundle exec jekyll server
 after_success:
   - bash <(curl -s https://codecov.io/bash)
 
