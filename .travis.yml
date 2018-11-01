@@ -2,12 +2,15 @@ language: ruby
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-install: 
+install:
+  - gem install bundler
   - gem install jekyll
   - gem install jekyll-paginate
-script: 
-  - jekyll build
+script:
+  - bundle install
+  - bundle update
+  - bundle exec jekyll build
 after_success:
   - bash <(curl -s https://codecov.io/bash)
-  
+
 
