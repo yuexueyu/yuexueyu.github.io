@@ -4,11 +4,11 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 install:
   - gem install bundler
+  - gem install github-pages
   - gem install jekyll
   - gem install jekyll-paginate
 script:
   - bundle install
-  - bundle update
   - bundle exec jekyll build
 after_success:
   - bash <(curl -s https://codecov.io/bash)
