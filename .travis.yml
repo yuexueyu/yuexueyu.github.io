@@ -9,8 +9,8 @@ install:
   - sudo gem install jekyll
   - sudo gem install jekyll-paginate
 script:
-  - sudo bundle install
-  - sudo bundle exec jekyll serve
+  - bundle install
+  - bundle exec jekyll serve
 after_success:
   - bash <(curl -s https://codecov.io/bash)
 
