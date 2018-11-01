@@ -1,19 +1,16 @@
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
+![](https://ws1.sinaimg.cn/large/006tNbRwgy1fwsjgq9yhwj31kw0ztnpe.jpg)
 
-[![Build Status](https://travis-ci.org/qiubaiying/qiubaiying.github.io.svg?branch=master)](https://travis-ci.org/qiubaiying/qiubaiying.github.io)
-[![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-qiubaiying-qiubaiying-github-io-master)
-[![GitHub issues](https://img.shields.io/github/issues/qiubaiying/qiubaiying.github.io.svg?style=flat)](https://github.com/qiubaiying/qiubaiying.github.io/issues)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
-[![](https://img.shields.io/github/stars/qiubaiying/qiubaiying.github.io.svg?style=social&label=Star)](https://github.com/qiubaiying/qiubaiying.github.io)
-[![](https://img.shields.io/github/forks/qiubaiying/qiubaiying.github.io.svg?style=social&label=Fork)](https://github.com/qiubaiying/qiubaiying.github.io)
+[![GitHub issues](https://img.shields.io/github/issues/yuexueyu/yuexueyu.github.io.svg?style=flat)](https://github.com/yuexueyu/yuexueyu.github.io/issues)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yuexueyu/yuexueyu.github.io/blob/master/LICENSE)
+[![](https://img.shields.io/github/stars/yuexueyu/yuexueyu.github.io.svg?style=social&label=Star)](https://github.com/yuexueyu/yuexueyu.github.io)
+[![](https://img.shields.io/github/forks/yuexueyu/yuexueyu.github.io.svg?style=social&label=Fork)](https://github.com/yuexueyu/yuexueyu.github.io)
 
 
-博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 
+博客的搭建教程修改自 [BY Blog](https://github.com/qiubaiying/qiubaiying.github.io) 
  
-更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 或 [wiki](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
-
+更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](https://blog.wu06.com/2017/02/06/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/) 
 >
-### [查看博客戳这里 👆](http://qiubaiying.github.io)
+### [查看博客戳这里 👆](https://blog.wu06.com/)
 
 
 
@@ -90,7 +87,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
+![](https://ws1.sinaimg.cn/large/006tNbRwgy1fwsk2yvu70j31kw0zt7wh.jpg)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
@@ -212,7 +209,7 @@ disqus_username: qiubaiying
 
 **使用：**
 
-参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
+参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](https://blog.wu06.com/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
 
 
 ### Analytics
@@ -271,10 +268,10 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ## 致谢
 
-1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
+1. 这个模板是从这里 [BY Blog](https://github.com/qiubaiying/qiubaiying.github.io) clone 的, 感谢这个作者。
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 ## License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
+遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/yuexueyu/yuexueyu.github.io/blob/master/LICENSE)。
 
