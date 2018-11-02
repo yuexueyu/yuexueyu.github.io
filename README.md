@@ -1,5 +1,6 @@
 ![](https://ws1.sinaimg.cn/large/006tNbRwgy1fwsjgq9yhwj31kw0ztnpe.jpg)
 
+[![Build Status](https://travis-ci.org/yuexueyu/yuexueyu.github.io.svg?branch=master)](https://travis-ci.org/yuexueyu/yuexueyu.github.io)
 [![GitHub issues](https://img.shields.io/github/issues/yuexueyu/yuexueyu.github.io.svg?style=flat)](https://github.com/yuexueyu/yuexueyu.github.io/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yuexueyu/yuexueyu.github.io/blob/master/LICENSE)
 [![](https://img.shields.io/github/stars/yuexueyu/yuexueyu.github.io.svg?style=social&label=Star)](https://github.com/yuexueyu/yuexueyu.github.io)
