@@ -3,8 +3,10 @@
 
 
 [![Build Status](https://travis-ci.org/yuexueyu/yuexueyu.github.io.svg?branch=master)](https://travis-ci.org/yuexueyu/yuexueyu.github.io)
+[![codebeat badge](https://codebeat.co/badges/ec163285-fb6f-4f82-9419-9f6db5240ed7)](https://codebeat.co/projects/github-com-yuexueyu-yuexueyu-github-io-master)
 [![GitHub issues](https://img.shields.io/github/issues/yuexueyu/yuexueyu.github.io.svg?style=flat)](https://github.com/yuexueyu/yuexueyu.github.io/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yuexueyu/yuexueyu.github.io/blob/master/LICENSE)
+
 [![](https://img.shields.io/github/stars/yuexueyu/yuexueyu.github.io.svg?style=social&label=Star)](https://github.com/yuexueyu/yuexueyu.github.io)
 [![](https://img.shields.io/github/forks/yuexueyu/yuexueyu.github.io.svg?style=social&label=Fork)](https://github.com/yuexueyu/yuexueyu.github.io)
 
