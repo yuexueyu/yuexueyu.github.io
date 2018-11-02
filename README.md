@@ -1,4 +1,6 @@
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fwsjgq9yhwj31kw0ztnpe.jpg)
+![](https://blog.wu06.com/img/readme-home.png)
+
+
 
 [![Build Status](https://travis-ci.org/yuexueyu/yuexueyu.github.io.svg?branch=master)](https://travis-ci.org/yuexueyu/yuexueyu.github.io)
 [![GitHub issues](https://img.shields.io/github/issues/yuexueyu/yuexueyu.github.io.svg?style=flat)](https://github.com/yuexueyu/yuexueyu.github.io/issues)
@@ -88,7 +90,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fwsk2yvu70j31kw0zt7wh.jpg)
+![](https://blog.wu06.com/img/readme-side.png)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
