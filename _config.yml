@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·大望路女司机",
-        href: "http://www.jianshu.com/u/69ab1155a65a"
-    },{
         title: "微信·大望路女司机",
         href: "https://mp.weixin.qq.com/mp/homepage?__biz=MzU0MDE3MzczNQ==&hid=2&sn=a6a6a574879f6127bc01f3182f26338e&scene=1&devicetype=android-26&version=26070336&lang=zh_CN&nettype=cmnet&ascene=7&session_us=gh_f24a75c43ec6&from=singlemessage"
-    }
+    },{
+        title: "仲景香菇酱",
+        href: "https://s.click.taobao.com/492ZbGw"
+    },
 ]
