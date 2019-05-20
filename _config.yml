@@ -1,10 +1,10 @@
 # Site settings
 title: Wu Blog
-SEOTitle: Wu Blog | Jack的博客
+SEOTitle: Wu Blog | 吴智勇的博客 | Jack的博客
 header-img: img/post/post-bg-desk.jpg
 email: jack@wu06.com
 description: "Anything is possible."
-keyword: "Wu, Wu Blog, 吴智勇的博客, 吴智勇, Jack, PHP, 前端, 小程序, PHPer"
+keyword: "Wu, Wu Blog, Jack Blog, Jack的博客, 吴智勇的博客, 吴智勇, Jack, PHP, 前端, 小程序, PHPer"
 url: "https://blog.wu06.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yuexueyu/yuexueyu.github.io.git" # you code repository
