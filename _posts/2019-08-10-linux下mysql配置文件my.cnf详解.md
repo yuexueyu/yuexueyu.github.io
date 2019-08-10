@@ -2,7 +2,7 @@
 layout:     post
 title:      mysql配置文件my.cnf详解[部分]
 subtitle:   my.cnf参数详解
-date:       2019-05-27
+date:       2019-08-10
 author:     Wu
 header-img: img/post/post-bg-20190810.png
 catalog: true
