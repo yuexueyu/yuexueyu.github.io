@@ -2222,3 +2222,5 @@ mysqld start
 # Linux 查看服务运行的状态
 service mysqld status
 ```
+
+> 本文首次发布于 [Wu Blog](https://blog.wu06.com/), 作者 [@Wu](https://github.com/yuexueyu) ,转载请保留[原文链接](https://blog.wu06.com/2019/08/10/linux下mysql配置文件my.cnf详解/)。
