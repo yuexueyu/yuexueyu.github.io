@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      serialize与json_encode的对比
-subtitle:   PHP函数
+title:      PHP:serialize与json_encode的对比
+subtitle:   serialize与json_encode的对比
 date:       2019-08-31
 author:     Wu
-header-img: img/post/post-bg-20190831.jpg
+header-img: img/post/post-bg-rwd.jpg
 catalog: true
 tags:
     - PHP
