@@ -1,15 +1,15 @@
 {
-  "name": "BY Blog",
-  "short_name": "BY Blog",
+  "name": "Wu Blog",
+  "short_name": "Wu Blog",
   "description": "A personal blog by engineer",
   "icons": [{
-    "src": "icons/pwa_icon_128.png",
-    "sizes": "128x128",
-    "type": "image/png"
+    "src": "img/apple-touch-icon.jpg",
+    "sizes": "152x152",
+    "type": "image/jpeg"
   }, {
-    "src": "icons/pwa_icon_512.png",
+    "src": "img/about-me.jpg",
     "sizes": "512x512",
-    "type": "image/png"
+    "type": "image/jpeg"
   }],
   "background_color": "#fff",
   "theme_color": "#000",
